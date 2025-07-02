@@ -1,5 +1,4 @@
 ## Neural Network from Scratch  
-*(Built using only the [Eigen](https://eigen.tuxfamily.org/) library)*
 
 This is a minimal neural network implementation written in pure C++ using the **Eigen** linear algebra library — no external machine learning frameworks.
 
