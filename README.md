@@ -16,4 +16,4 @@ How to Use
 2. Edit the `CMakeLists.txt` file to set the correct path to Eigen
 3. Build and run the project as usual (with cmake)
 
-![](NN_demo.png)
+![radius classification](NN_demo.png)
